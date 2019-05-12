@@ -1,6 +1,6 @@
-# *HomeDrive*
+# *Avenue*
 
-**Objective** HomeDrive is an iOS application that connects drivers in need of parking spaces to homeowners willing to rent out their garage/driveway.
+**Objective** Avenue is an iOS application that connects drivers in need of parking spaces to homeowners willing to rent out their garage/driveway.
 
 **Motive** A daily frustration of New York drivers is having difficulty finding parking spaces.
 
@@ -44,7 +44,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## License
-© 2018 HomeDrive
+© 2018 Avenue
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
